@@ -1,0 +1,2 @@
+# Task-3-Coronary-Heart-Diseas
+In this project we wish to analysis and predict whether person will have heart disease  in next ten years or not based on data collected by a healthcare organization together  with a couple of government hospitals in a city.  This problem contains various parameters which decides target variable whether  person will have coronary heart disease (Target = 0 or yes) or not (Target = 1 or no)
